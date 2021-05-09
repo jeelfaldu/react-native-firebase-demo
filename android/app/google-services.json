@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471870226697",
+    "project_id": "react-native-firedemo",
+    "storage_bucket": "react-native-firedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471870226697:android:10aa1447053e5bef8b13d8",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471870226697-g9e885pp87j9cll5pgnq3mqi5s8l36t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9PBVMl3ndtQ1Lf9ujHHGB_mtsIsFhqSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471870226697-g9e885pp87j9cll5pgnq3mqi5s8l36t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
